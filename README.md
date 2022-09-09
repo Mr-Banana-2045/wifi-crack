@@ -2,6 +2,8 @@
 # wifi-crack
 password and username wifi
 
-git clone https://github.com/Mr-Banana-2045/wifi-crack\n
-cd wifi-crack\n
-python3 wifi.pyi\n
+git clone https://github.com/Mr-Banana-2045/wifi-crack
+
+cd wifi-crack
+
+python3 wifi.pyi
